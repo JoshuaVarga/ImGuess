@@ -5,6 +5,7 @@
       <w>logit</w>
       <w>relu</w>
       <w>softmax</w>
+      <w>tset</w>
     </words>
   </dictionary>
 </component>
